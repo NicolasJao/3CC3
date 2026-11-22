@@ -1,4 +1,4 @@
-# 3CC3
+# Cloud Computing and Internet of Things
 
 SMRTTECH 3CC3 - L04
 
